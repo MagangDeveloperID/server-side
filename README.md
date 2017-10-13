@@ -29,7 +29,7 @@ Arsitektur Server Side Programming :
 Server atau sering disebut juga back-end akan menerima pesan dari client, yang diproses dan hasilnya akan dikembalikan kepada client. Contoh dari tugas server melayani permintaan client kemudian memberikan jawaban atas data yang diminta oleh client, server dapat juga berkolaborasi dengan server lain untuk melayani permintaan client.
 
 # Cara Keja Server Side Programming :
-1 Pertama user (Client) melakukan request ke server melalui web browser di komputernya.
+1. Pertama user (Client) melakukan request ke server melalui web browser di komputernya.
 2. Server akan merespon request dari klien untuk kemudian di proses.
 3. Setelah pemrosesan selesai kemudian server mengirim respon ke klien dalam format html.
 4. Kemudian web browser klien menerima kode-kode yang sudah berformat html dan sekarang web browser memiliki tugas untuk menyusun kode-kode html itu menjadi sebuah tampilan yang akan ditampilkan di desktop. Tugas web browser seperti inilah dinamakan Client Side Programming.
