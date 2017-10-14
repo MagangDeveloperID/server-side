@@ -32,5 +32,4 @@ Server atau sering disebut juga back-end akan menerima pesan dari client, yang d
 1. Pertama user (Client) melakukan request ke server melalui web browser di komputernya.
 2. Server akan merespon request dari klien untuk kemudian di proses.
 3. Setelah pemrosesan selesai kemudian server mengirim respon ke klien dalam format html.
-4. Kemudian web browser klien menerima kode-kode yang sudah berformat html dan sekarang web browser memiliki tugas untuk menyusun kode-kode html itu menjadi sebuah tampilan yang akan ditampilkan di desktop. Tugas web browser seperti inilah dinamakan Client Side Programming. <br>
-![server-side.png](https://s1.postimg.org/1cq21qplvz/server-side.png)]
+4. Kemudian web browser klien menerima kode-kode yang sudah berformat html dan sekarang web browser memiliki tugas untuk menyusun kode-kode html itu menjadi sebuah tampilan yang akan ditampilkan di desktop. Tugas web browser seperti inilah dinamakan Client Side Programming.
