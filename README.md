@@ -1,4 +1,4 @@
-#	Server Side Programming
+#	Server Side Programming!
 
 Program web yang tergolong dalam server-side programming adalah CGI/Perl, ASP (Active Server Page), PHP, CFM (Coldfussion), JSP (Java Script Page) dan lainnya.
 Teknologi-teknologi server-side programming memang mempunyai kelemahan dan kelebihan, namun semua dari program server-side programming mempunyai persamaan yaitu kontrol. Artinya hanya server yang dikontrol oleh pengembang web tentang bagaimana program pada sisi server seharusnya berjalan.
@@ -32,4 +32,5 @@ Server atau sering disebut juga back-end akan menerima pesan dari client, yang d
 1. Pertama user (Client) melakukan request ke server melalui web browser di komputernya.
 2. Server akan merespon request dari klien untuk kemudian di proses.
 3. Setelah pemrosesan selesai kemudian server mengirim respon ke klien dalam format html.
-4. Kemudian web browser klien menerima kode-kode yang sudah berformat html dan sekarang web browser memiliki tugas untuk menyusun kode-kode html itu menjadi sebuah tampilan yang akan ditampilkan di desktop. Tugas web browser seperti inilah dinamakan Client Side Programming.
+4. Kemudian web browser klien menerima kode-kode yang sudah berformat html dan sekarang web browser memiliki tugas untuk menyusun kode-kode html itu menjadi sebuah tampilan yang akan ditampilkan di desktop. Tugas web browser seperti inilah dinamakan Client Side Programming. <br>
+![server-side.png](https://s1.postimg.org/1cq21qplvz/server-side.png)]
